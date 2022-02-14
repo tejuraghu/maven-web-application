@@ -37,7 +37,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		raghu maligera technology, 
 		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
 		davanagere,
-		+91-8892887736
+		+91-9036830477
 		devopstrainingblr@gmail.com
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
