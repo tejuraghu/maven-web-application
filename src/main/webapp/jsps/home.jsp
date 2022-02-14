@@ -34,7 +34,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		raghu technology, 
+		raghu maligera technology, 
 		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
 		davanagere,
 		+91-7760876087
