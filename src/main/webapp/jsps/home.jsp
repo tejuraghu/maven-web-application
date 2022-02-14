@@ -36,7 +36,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<span style="font-weight: bold;">
 		raghu technology, 
 		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,
+		davanagere,
 		+91-7760876087
 		devopstrainingblr@gmail.com
 		<br>
